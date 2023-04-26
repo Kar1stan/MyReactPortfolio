@@ -12,8 +12,8 @@ export default function About() {
               </h1>
               <p className="mb-8 leading-relaxed">
               I'm Frontend developer.
-              I have knowledge in such programming languages: JavaScript, TypeScript, HTML, CSS, MySQL. 
-              I'm working with React, have experience with Angular.
+              I have knowledge in such programming languages: JavaScript, TypeScript, HTML, CSS, MySQL,Vue. 
+              I'm working with React,Vue have experience with Angular.
               </p>
               <div className="flex justify-center">
                 <a
